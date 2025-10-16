@@ -2,8 +2,8 @@ import React from "react";
 import { motion } from "framer-motion";
 import { FaLinkedin, FaGithub, FaFilePdf } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import avatar from "../assets/image0.png";
-import cvFile from "../assets/image0.png";
+import avatar from "../assets/image0.jpeg";
+import cvFile from "../assets/image0.jpeg";
 
 const NAME = "Yara Mawla";
 const TAGLINE = "Étudiante en L3 Informatique à l’Université de Bordeaux • Développement Web • Data & IA";
